@@ -60,10 +60,10 @@ Key findings from ORA include:
 - M5: Heavily enriched in lipid and steroid metabolic processes
 
 ![ORA Plot M1](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
-![ORA Plot M2](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
-![ORA Plot M3](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
-![ORA Plot M4](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
-![ORA Plot M5](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
+![ORA Plot M2](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA2.png)
+![ORA Plot M3](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA3.png)
+![ORA Plot M4](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA4.png)
+![ORA Plot M5](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA5.png)
 
 ## Discussion of Enriched Pathways in ACC
 
