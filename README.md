@@ -2,7 +2,14 @@
 
 ## Project Overview
 
-This project employs advanced bioinformatics techniques to explore gene co-expression networks in Adrenocortical Carcinoma (ACC), a rare and aggressive form of cancer affecting the adrenal glands. By leveraging data from The Cancer Genome Atlas (TCGA) and the Genotype-Tissue Expression (GTEx) project, we aim to uncover novel insights into the molecular mechanisms underlying ACC and identify potential therapeutic targets.
+This project focuses on performing a comprehensive gene coexpression network analysis for adrenocortical carcinoma (ACC) samples from the TCGA database and normal adrenal gland tissues from the GTEx project. Using the **CEMiTool** package, we identified coexpressed gene modules, conducted pathway enrichment, and explored their interactions within ACC subgroups (TCGA-ACC-COC1, TCGA-ACC-COC2, and TCGA-ACC-COC3).
+
+## Objectives
+
+- Perform a comparative gene coexpression analysis of **TCGA-ACC** samples and **GTEx Normal Adrenal Gland** tissues.
+- Identify coexpression modules specific to **ACC subgroups**.
+- Conduct **Gene Set Enrichment Analysis (GSEA)** and **Over Representation Analysis (ORA)** to explore the biological significance of identified modules.
+- Visualize and interpret coexpression networks, identifying potential biomarkers and therapeutic targets in ACC.
 
 ## Methodology
 
