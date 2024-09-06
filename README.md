@@ -37,24 +37,33 @@ This project focuses on performing a comprehensive gene coexpression network ana
 The analysis identified 5 distinct co-expression modules (M1-M5) and a set of uncorrelated genes.
 
 ### Profile Plots
-[Insert Figure 1: Profile Plots for Modules M1-M5]
-
 These plots reveal distinct expression patterns across different sample types, highlighting potential subtype-specific gene regulations in ACC.
 
-### Gene Set Enrichment Analysis (GSEA)
-[Insert Figure 2: GSEA Heatmap]
+![Profile Plot M1](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/M1.png)
+![Profile Plot M2](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/M2.png)
+![Profile Plot M3](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/M3.png)
+![Profile Plot M4](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/M4.png)
+![Profile Plot M5](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/M5.png)
 
+
+### Gene Set Enrichment Analysis (GSEA)
 The GSEA results demonstrate significant enrichment of specific pathways in different modules across sample types, providing insights into the functional relevance of each module.
 
-### Over-Representation Analysis (ORA)
-[Insert Figures 3-8: ORA Bar Plots for Modules M1-M5 and Not Correlated Genes]
+![Insert Figure 2: GSEA Heatmap](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/GSEA.png)
 
+### Over-Representation Analysis (ORA)
 Key findings from ORA include:
 - M1: Enriched in axon guidance and phosphorylation regulation
 - M2: Strong association with neurotransmitter secretion and synaptic transmission
 - M3: Enriched in immune response and inflammation-related processes
 - M4: Involved in G-protein signaling and cell proliferation regulation
 - M5: Heavily enriched in lipid and steroid metabolic processes
+
+![ORA Plot M1](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
+![ORA Plot M2](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
+![ORA Plot M3](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
+![ORA Plot M4](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
+![ORA Plot M5](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/ORA1.png)
 
 ## Discussion of Enriched Pathways in ACC
 
@@ -78,14 +87,18 @@ The enriched pathways identified in our analysis provide intriguing insights int
    - Given the role of the adrenal gland in steroid hormone production, the enrichment of these pathways is particularly relevant to ACC. Alterations in steroid metabolism are characteristic of ACC and can distinguish it from adrenal adenomas (Kerkhofs et al., 2015).
 
 ### Interaction Network Analysis
-[Insert Figures 9-13: Interaction Network Visualizations for Each Module]
-
 These networks reveal key hub genes within each module, potentially identifying critical regulators in ACC pathogenesis:
 - M1: UBC, EGFR, and MYC emerge as central hubs
 - M2: UBC and MAP2 show high connectivity
 - M3: UBC and COL1A1 are prominent hubs
 - M4: JUN and JUNB display significant interactions
 - M5: UBC and FASN are central to the network
+
+![NET Plot M1](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/NET1.png)
+![NET Plot M2](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/NET2.png)
+![NET Plot M3](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/NET3.png)
+![NET Plot M4](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/NET4.png)
+![NET Plot M5](https://github.com/LuisNagano/Gene-Coexpression-network/blob/main/Figures/NET5.png)
 
 ## Significance of Hub Genes in ACC
 
