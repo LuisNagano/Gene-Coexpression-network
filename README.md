@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on performing a comprehensive gene coexpression network analysis for adrenocortical carcinoma (ACC) samples from the TCGA database and normal adrenal gland tissues from the GTEx project. Using the **CEMiTool** package, we identified coexpressed gene modules, conducted pathway enrichment, and explored their interactions within ACC subgroups (TCGA-ACC-COC1, TCGA-ACC-COC2, and TCGA-ACC-COC3).
+This project focuses on performing a comprehensive gene coexpression network analysis for adrenocortical carcinoma (ACC) samples from the TCGA database and normal adrenal gland tissues from the GTEx project. Using the **CEMiTool** package, we identified coexpressed gene modules, conducted pathway enrichment, and explored their interactions within ACC subgroups (ACC-COC1, ACC-COC2, and ACC-COC3).
 
 ## Objectives
 
