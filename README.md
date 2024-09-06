@@ -130,10 +130,6 @@ This comprehensive gene co-expression network analysis in ACC has unveiled novel
 
 ## References
 
-Claro, vou adicionar e destacar a referência do pacote CEMiTool usado na análise. Aqui está a referência do CEMiTool, que deve ser adicionada e destacada no início da seção de Referências:
-
-## References
-
 **Russo, P. S. T., Ferreira, G. R., Cardozo, L. E., Bürger, M. C., Arias-Carrasco, R., Maruyama, S. R., Hirata, T. D. C., Lima, D. S., Passos, F. M., Fukutani, K. F., Khouri, R., Nakaya, H. I., & Nakaya, H. I. (2018). CEMiTool: a Bioconductor package for performing comprehensive modular co-expression analyses. BMC Bioinformatics, 19(1), 56. https://doi.org/10.1186/s12859-018-2053-1**
 
 Chuang, H. N., Cheng, H. Y., Hsiao, K. M., Lin, C. W., Lin, M. L., & Pan, H. M. (2017). The dual PI3K/mTOR inhibitor BEZ235 restricts the growth of lung cancer tumors regardless of EGFR status, as a potent accompanist in combined therapeutic regimens. Journal of Experimental & Clinical Cancer Research, 36(1), 72. https://doi.org/10.1186/s13046-017-0552-y
