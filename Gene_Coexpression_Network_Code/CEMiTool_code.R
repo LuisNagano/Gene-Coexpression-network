@@ -1,4 +1,4 @@
-setwd("C:/Users/bruep/OneDrive/Área de Trabalho/zzz_teste/")
+setwd("C:/Users/bruep/OneDrive/Área de Trabalho/")
 
 ################# CEMiTool ########################
 
